@@ -7,3 +7,4 @@ Further project ideas (John's ideas of how to spend free time..):
 - n-dimensional model interpretation: search for maximum clustering of classes + distance between clusters for plotting most useful dimensions
 - clustering of multiple bands into genres, find "bridge" artists... likely involve PCA
 - RL: learn how to play backgammon
+- Implement optimization/simulation using monte carlo method or pyomo or something similar
