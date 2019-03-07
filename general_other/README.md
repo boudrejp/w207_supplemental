@@ -8,3 +8,6 @@ Further project ideas (John's ideas of how to spend free time..):
 - clustering of multiple bands into genres, find "bridge" artists... likely involve PCA
 - RL: learn how to play backgammon
 - Implement optimization/simulation using monte carlo method or pyomo or something similar
+- commute times
+- predict nfl outcomes better than the spread
+- clustering for national anthem lyrics, compare these to attributes (government types, geography, historical...)
