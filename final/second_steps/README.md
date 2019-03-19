@@ -7,5 +7,5 @@
   * __PLEASE__ save any generated data frame outside this repository or include them in a folder that you can put in `.gitignore`. No need for us to have the same thing saved a ton of times :)
 
 ### Sampling Method Status
-* TODO (John): write function
-* TODO (John): incorporate into `pipeline_fxn.ipynb`
+* Contained in `sampling_fxn.ipynb`
+* Only to be used on training data after train/test split. See details in the notebook for why
