@@ -6,6 +6,7 @@
 * Data pipeline + Transformations + ML algorithm fitting
 * Random Forest Model Interpretation (`RandomForest Model Interpretation.ipynb`)
 * XGBoost Model Interpretation (`xgboost_importance.ipynb`)
+* Model permutation importance comparison (`Model permutation importance comparison.pdf`)
 * Raw Data (`anonymized_SAP_Data.csv`)
 * Folder of all possible outputs of data preprocessing pipelines (`/p_data`)
 
